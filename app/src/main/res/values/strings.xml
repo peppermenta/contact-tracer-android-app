@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContactTracing</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="login_button_label">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="start_server">Start Server</string>
+    <string name="report_as_infected">Report as Infected</string>
+    <string name="register_new_user">Register New User</string>
+    <string name="new_user_register">New User? Register</string>
+    <string name="already_a_user_login">Already a User? Login</string>
+</resources>
